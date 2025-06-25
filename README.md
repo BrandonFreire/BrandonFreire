@@ -8,7 +8,7 @@ Estudiante de Ingeniería en Ciencias de la Computación, actualmente cursando e
 
 - 🎓 Formación: Ingeniería en Ciencias de la Computación
 - 🌐 Intereses: Redes y conectividad / Programación
-- 💡 En constante aprendizaje en redes y programación.  
+- 💡 En constante aprendizaje.  
 - 🤝 Abierto a colaborar en proyectos.
 
 ---
