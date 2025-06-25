@@ -22,9 +22,9 @@ Estudiante de Ingeniería en Ciencias de la Computación, actualmente cursando e
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estado de mi GitHub
 
-![Ismael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrandonFreire&show_icons=true&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
