@@ -1,4 +1,11 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Brandon, más conocido como Ismael
+
+Estudiante de Ingeniería en Ciencias de la Computación | Apasionado por las redes y la programación 🔌💻
+
+- 🎓 Cursando 4to semestre
+- 🌐 Interesado en Redes y conectividad
+- 🛠️ Lenguajes: Python, Java, SQL
+
 
 <!--
 **BrandonFreire/BrandonFreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
