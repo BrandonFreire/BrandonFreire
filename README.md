@@ -34,7 +34,11 @@ Estudiante de Ingeniería en Ciencias de la Computación, actualmente cursando e
 
 ## 📊 Estado de mi GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 
