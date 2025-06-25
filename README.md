@@ -23,6 +23,10 @@ Estudiante de Ingeniería en Ciencias de la Computación, actualmente cursando c
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge" />
+
 
 </div>
 
