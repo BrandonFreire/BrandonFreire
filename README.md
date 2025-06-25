@@ -13,9 +13,9 @@ Estudiante de Ingeniería en Ciencias de la Computación, actualmente cursando c
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías
 
-### 💻 Lenguajes
+### 💻 Lenguajes y herramientas
 
 <div align="center">
 
