@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Ismael
 
-Estudiante de Ingeniería en Ciencias de la Computación, actualmente cursando cuarto semestre de carrera.
+Estudiante de Ingeniería en Ciencias de la Computación, actualmente cursando quinto semestre de carrera.
 
 ---
 
